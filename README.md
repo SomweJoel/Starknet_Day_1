@@ -12,4 +12,9 @@ Starknet is a permissionless network that leverages the power of Stark for scala
 It functions as a zero-knowledge Rollup that uses cryptographic systems called STARKs for security and reduced costs.
 ## Level 3
 #### - What is Starkware?
+Starkware is a technology company in that focuses on developing and deploying zk-STARK technology.
+Starkware’s first key innovation was StarkEx, which, based on a Software as a Service (SaaS) business model, has become one of the most significant Layer 2 solutions in production on Ethereum.
+Starkware’s second significant contribution to the blockchain industry is Cairo, a programming language optimized for writing efficient STARK proofs, enabling scalable computation for decentralized applications.
+#### - How does StarkEx leverage STARK proofs?
+By ensuring the validity of large batches of transactions processed off-chain with a minimal on-chain footprint.
   
